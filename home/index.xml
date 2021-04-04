@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Internet</title>
+    <link>https://jp-guimaraes.github.io/slides_informatica/home/</link>
+    <description>Recent content in Homes on Internet</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://jp-guimaraes.github.io/slides_informatica/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_informatica/home/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_informatica/home/intro/</guid>
+      <description> Objetivos Entender o funcionamento básico da Internet, as formas de conexão e aplicativos básicos.
+ Sumário  Histórico Como funciona? Se conectando a internet Aplicativos &amp;amp; Serviços   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_informatica/home/historico/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_informatica/home/historico/</guid>
+      <description> Histórico ARPANET
+1969 - Embrião da internet
+ Cern Primeiro website
+ Vídeo complementar 1 
+ Vídeo complementar 2 
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_informatica/home/how/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_informatica/home/how/</guid>
+      <description>Mas como funciona a internet?  Rede de computadores rede ponto a ponto
+ Pacotes Informação divida em pacotes de dados
+ Topologias  Internet  Como &amp;ldquo;entrar&amp;rdquo; na internet?  ISP Fornecedor de serviço
+(Internet Service Provider)
+Quem é o meu ISP?
+ O que há na internet? Site/Seviços
+Sevidores
+ Servidores  Servidor   Acompanhando a rota dos pacotes Traceroute
+Tracert
+ Download &amp;amp; Upload Velocidade de conexão</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_informatica/home/servicos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_informatica/home/servicos/</guid>
+      <description> O que há na internet? Site/Seviços
+Sevidores
+ Texto
+Imagens
+Redes sociais
+email
+Notícias
+Chat
+p2p
+Voip
+Vídeo
+Áudio
+ Hyperlinks Endereços
+Portais
+ Servidores  Servidor   Acompanhando a rota dos pacotes Traceroute
+Tracert
+ Download &amp;amp; Upload Velocidade de conexão
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_informatica/home/problemas/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_informatica/home/problemas/</guid>
+      <description> Não tenho internet De quem é a culpa?
+ Como estou conectado? WIFI
+Cabo
+3g/4g/5g
+ Wifi Roteador
+ Access Point  Modem  Rede cabeada  Cabeamento estruturado  RJ 45  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_informatica/home/wifi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_informatica/home/wifi/</guid>
+      <description>WIFI Frequências de trabalho 2.4GHZ e 5GHZ
+Vantagens e desvantagens?
+Por quê?
+ Comprimento de onda O quanto menor for a frequência -&amp;gt; maior será o comprimento de onda
+Implica numa **maior** distância ***Maior*** capacidade de penetrar obstáculos   Relembrando  Leitura complementar
+ Wifi causa câncer? Maior frequência -&amp;gt; maior a intensidade da energia emitida no mesmo intervalo de tempo (menor comprimento de onda)
+Altas concetraçòes de enrgia -&amp;gt; Radiação ionizante (quebra de ligações atômicas) -&amp;gt; Câncer</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides_informatica/home/busca/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides_informatica/home/busca/</guid>
+      <description> Ferramentas de busca Google
+Bing
+Duckduckgo
+ Periódicos Portal de periódicos capes
+ Outras ferramentas Google Scholar
+Research Gate
+Currículo lattes
+scihub
+ Dicas: buscas no google
+ </description>
+    </item>
+    
+  </channel>
+</rss>
